@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DavidCraddock.games</title>
+    <link>https://davidcraddock.games/</link>
+    <description>Recent content on DavidCraddock.games</description>
+    <image>
+      <title>DavidCraddock.games</title>
+      <url>https://davidcraddock.games/mugshot.png</url>
+      <link>https://davidcraddock.games/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Mon, 21 Oct 2024 00:40:14 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddock.games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Gaming Blog</title>
+      <link>https://davidcraddock.games/new-gaming-blog/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=1</guid> 
+      <description>This is my new gaming blog, where I will write reviews of games I&amp;rsquo;ve played, game accessories I&amp;rsquo;ve bought, and anything else PC or console gaming-related that I can think of.
+It is using the same setup as my main https://davidcraddock.net blog - as in - it&amp;rsquo;s self-hosted, and uses the Hugo Go-based static blogging engine.</description>
+    </item>
+    <item>
+      <title>Time Crisis 2 Setup</title>
+      <link>https://davidcraddock.games/time-crisis-2-setup/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=2</guid> 
+      <description>Time Crisis 2 is a light-gun shooter arcade game developed and published by Namco. It was released in arcades in 1997, and later ported to the PlayStation 2 in 2001. It is the second instalment in the Time Crisis series.
+The game features a two-player mode, where each player takes turns using a light gun to shoot enemies and reload. Players can duck behind cover to avoid enemy fire, and pop out to shoot enemies.</description>
+    </item>
+  </channel>
+</rss>
