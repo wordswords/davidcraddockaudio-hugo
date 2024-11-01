@@ -8,7 +8,7 @@ url: /dragon-age-veilguard
 author: David Craddock
 ---
 
-![image](veil.jpg)
+![image](veil.png)
 
 I pre-ordered Dragon Age: Veilguard, and started playing it as soon as it downloaded after release.
 
