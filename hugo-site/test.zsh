@@ -5,5 +5,5 @@ set -x
 
 rm -rf public/*
 hugo --gc
-hugo server --config ./hugo.yaml --disableFastRender || echo ''
+hugo server --config ./hugo.yaml 
 
