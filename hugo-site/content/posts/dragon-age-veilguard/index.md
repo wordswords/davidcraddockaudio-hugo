@@ -5,11 +5,10 @@ date: "2024-11-1T00:40:14+00:00"
 guid: http://www.davidcraddock.games/?p=3
 title: "Dragon Age: Veilguard - First Impressions"
 url: /dragon-age-veilguard
-image: veil.jpg
 author: David Craddock
 ---
 
-![image](veil.jpg)
+![image](./veil.jpg)
 
 I pre-ordered Dragon Age: Veilguard, and started playing it as soon as it downloaded after release.
 
