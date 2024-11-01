@@ -1,5 +1,5 @@
 archetypedir = 'archetypes'
-assetdir = 'content'
+assetdir = 'assets'
 baseurl = 'https://davidcraddock.games'
 buildexpired = true
 buildfuture = true
@@ -408,7 +408,7 @@ workingdir = '/home/david/.hqconfig/davidcraddockgames-hugo/hugo-site'
     target = 'archetypes'
 
   [[module.mounts]]
-    source = 'content'
+    source = 'assets'
     target = 'assets'
 
   [[module.mounts]]
