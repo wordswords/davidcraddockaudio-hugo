@@ -8,6 +8,8 @@ url: /dragon-age-veilguard
 
 ---
 
+![image](veil.jpg)
+
 I pre-ordered Dragon Age: Veilguard, and started playing it as soon as it downloaded after release.
 
 First impressions? Quite positive! Some initial thoughts:
