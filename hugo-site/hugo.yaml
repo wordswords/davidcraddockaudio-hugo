@@ -33,10 +33,11 @@ languages:
         - name: Gaming Setup
           url: https://davidcraddock.net/my-gaming-setup/
           weight: 15
-        - name: Games Inventory
+        - name: Gaming PC PlayNite Inventory
+          url: https://home.davidcraddock.net/PlayNiteHTMLExport/index.html
+        - name: Full Media Library
           url: https://home.davidcraddock.net
-          weight: 15
-
+          weight: 16
 outputs:
   home:
     - HTML
@@ -45,7 +46,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "DavidCraddock.games"
+  description: "DavidCraddock.Games"
   author: David Craddock
   defaultTheme: auto
   # disableThemeToggle: true
@@ -74,7 +75,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "DavidCraddock.games"
+    Title: "DavidCraddock.Games"
 
     Content: >
       Hi, I'm David. Welcome to my gaming blog! Here, I write about games, gaming and everything in between. I self-host this blog. Self-hosting websites have the disadvantage that sometimes they are not available - uptime is not 100%, and search engines don't like that aspect. However I feel it is worth it for the learning experience and the control I have over every aspect of my sites. If you need to contact me at any time, please use: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>.
