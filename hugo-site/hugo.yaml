@@ -1,5 +1,5 @@
-baseURL: "https://davidcraddock.games"
-title: DavidCraddock.Games
+baseURL: "https://davidcraddockaudio.com"
+title: DavidCraddockAudio.com
 copyright: "© David Paul Craddock"
 paginate: 5
 theme: PaperMod
@@ -29,15 +29,6 @@ languages:
       main:
         - name: Search
           url: search/
-          weight: 10
-        - name: Gaming Setup
-          url: https://davidcraddock.net/my-gaming-setup/
-          weight: 15
-        - name: Gaming PC PlayNite Inventory
-          url: https://home.davidcraddock.net/PlayNiteHTMLExport/index.html
-        - name: Full Media Library
-          url: https://home.davidcraddock.net
-          weight: 16
 outputs:
   home:
     - HTML
@@ -46,7 +37,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "DavidCraddock.Games"
+  description: "DavidCraddockAudio.com"
   author: David Craddock
   defaultTheme: auto
   # disableThemeToggle: true
@@ -78,9 +69,7 @@ params:
     Title: "DavidCraddock.Games"
 
     Content: >
-      Hi, I'm David. Welcome to my gaming blog! Here, I write about games, gaming and everything in between. I self-host this blog. Self-hosting websites have the disadvantage that sometimes they are not available - uptime is not 100%, and search engines don't like that aspect. However I feel it is worth it for the learning experience and the control I have over every aspect of my sites. If you need to contact me at any time, please use: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>.
-
-      <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;margin-top:20px;margin-bottom:0px;" src="/mugshot.png" alt="A mugshot of me">
+      Audio Portfolio site placeholder.
 
   socialIcons:
     - name: instagram
