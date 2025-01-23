@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DavidCraddockAudio.com</title>
+    <link>https://davidcraddockaudio.com/posts/</link>
+    <description>Recent content in Posts on DavidCraddockAudio.com</description>
+    <image>
+      <title>DavidCraddockAudio.com</title>
+      <url>https://davidcraddockaudio.com/mugshot.png</url>
+      <link>https://davidcraddockaudio.com/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Mon, 21 Oct 2024 00:40:14 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddockaudio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Audio Blog</title>
+      <link>https://davidcraddockaudio.com/new-audio-blog/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+      <guid>https://davidcraddockaudio.com/new-audio-blog/</guid>
+      <description>This is a placeholder for my website that once showcased my professional music portfolio, which I have yet to find the time to properly flesh out again.</description>
+    </item>
+  </channel>
+</rss>
