@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DavidCraddockAudio.com</title>
+    <link>https://davidcraddockaudio.com/</link>
+    <description>Recent content on DavidCraddockAudio.com</description>
+    <image>
+      <title>DavidCraddockAudio.com</title>
+      <url>https://davidcraddockaudio.com/mugshot.png</url>
+      <link>https://davidcraddockaudio.com/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Sat, 10 May 2025 00:40:14 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddockaudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work with Mark Chalmers</title>
+      <link>https://davidcraddockaudio.com/work-with-mark-chalmers/</link>
+      <pubDate>Sat, 10 May 2025 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddockaudio.com/?p=2</guid> 
+      <description>I have recently been donating equipment and tech help to Mark Chalmers Twitch.TV DJ streams, Heavy Resistance Aberdeen and Disintegrate at Midnight Aberdeen. I have also been DJing regularly on these streams.
+I donated a large amount of my old DJ setup to Mark, because I wanted it to go to a good home. This helped Mark to build quite an impressive DJ setup in his small flat.
+I worked with him solving many IT support issues with his DJ laptop and streaming laptop, and other elements of his A/V setup, making sure that everything was configured in an optimal way for streaming and DJing.</description>
+    </item>
+    <item>
+      <title>New Audio Blog</title>
+      <link>https://davidcraddockaudio.com/new-audio-blog/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddockaudio.com/?p=1</guid> 
+      <description>This is a placeholder for my website that once showcased my professional music portfolio, which I have yet to find the time to properly flesh out again.</description>
+    </item>
+  </channel>
+</rss>
