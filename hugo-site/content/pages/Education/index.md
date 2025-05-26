@@ -1,13 +1,11 @@
 ---
 date: "2015-05-26T18:46:15+00:00"
 guid: http://www.davidcraddock.net/?page_id=1595
-title: Education
+title: Music Education
 url: /Education/
 ---
 
 ![image](djingbooks.webp)
-
-## Music Education
 
 In tandem with decades of professional experience in DJing and production, I'm a firm believer in life-long music education, and have complimented my music work with a lot of formal and informal music education:
 
