@@ -68,7 +68,7 @@ params:
   ShowToc: true
   TocOpen: true # open contents automantically
   comments: true
-  images: ["/mugshot.png"]
+  images: ["/mugshot.jpg"]
 
   profileMode:
     enabled: false
