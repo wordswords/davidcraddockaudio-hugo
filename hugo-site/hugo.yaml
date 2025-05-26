@@ -80,13 +80,14 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "David Craddock's Music and Audio Portfolio"
+    Title: "Music and Audio Portfolio"
     Content: >
       This is a portfolio and record of the work I have undertaken in the audio and music industry.
 
       I have been a professional [DJ for 15+ years](/DJing), a [Music Producer for 10+](/Production) and an [Engineer](/Engineering) and a [life-long learner of music](/Education) all my professional life.
-
-        <center><img src="https://davidcraddockaudio.com/mugshot.jpg" alt="David Craddock" class="img-fluid rounded-circle" width="200"></center>
+      <br/>
+      <br/>
+      <center><img src="https://davidcraddockaudio.com/mugshot.jpg" alt="David Craddock" class="img-fluid rounded-circle" width="200"></center>
 
   socialIcons:
     - name: instagram
