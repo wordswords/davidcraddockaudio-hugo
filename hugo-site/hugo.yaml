@@ -81,11 +81,12 @@ params:
 
   homeInfoParams:
     Title: "DavidCraddockAudio.com"
-
+    Image: "/mugshot.jpg"
     Content: >
       This is a portfolio and record of the work I have undertaken in the audio and music industry.
 
       I have been a professional [DJ for 15+ years](/DJing), a [Music Producer for 10+](/Production) and an [Engineer](/Engineering) and a [life-long learner of music](/Education) all my professional life.
+
 
   socialIcons:
     - name: instagram
