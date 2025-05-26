@@ -29,18 +29,19 @@ languages:
       main:
         - name: Search
           url: search/
-      DJing:
+          weight: 10
         - name: DJing
           url: DJing/
-      Production:
+          weight: 11
         - name: Production
           url: Production/
-      Education:
+          weight: 12
         - name: Education
           url: Education/
-      Engineering:
+          weight: 13
         - name: Engineering
           url: Engineering/
+          weight: 14
 
 outputs:
   home:
