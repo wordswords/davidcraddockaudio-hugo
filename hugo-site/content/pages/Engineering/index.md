@@ -15,7 +15,7 @@ I am an experienced studio technician with good understanding of OBS, Streamlabs
 
 I was employed as a freelance consultant to design, assemble and support a professional guitar tutors streaming setup. This is what he had to say about what I did:
 
-    “I had to quickly adapt my business to function online only, with very little relevant experience. David provided me with setup and purchase advice, installation help and was available for further consultation whenever I needed him. He was a pleasure to work with and really knows his stuff. I’d highly recommend his services.” – Jon Hatton, Guitar tutor.
+"I had to quickly adapt my business to function online only, with very little relevant experience. David provided me with setup and purchase advice, installation help and was available for further consultation whenever I needed him. He was a pleasure to work with and really knows his stuff. I’d highly recommend his services." – Jon Hatton, Guitar tutor.
 
 
 
