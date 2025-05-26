@@ -29,6 +29,18 @@ languages:
       main:
         - name: Search
           url: search/
+      DJing:
+        - name: DJing
+          url: DJing/
+      Production:
+        - name: Production
+          url: Production/
+      Education:
+        - name: Education
+          url: Education/
+      Engineering:
+        - name: Engineering
+          url: Engineering/
 outputs:
   home:
     - HTML
