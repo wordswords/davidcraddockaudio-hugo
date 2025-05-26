@@ -5,6 +5,8 @@ title: Music and Sound Engineering
 url: /Engineering/
 ---
 
+![image](djsetuptechnical.jpg)
+
 I have a strong music and sound engineering technical element to my skillset, having built several novel DJ set-ups, several music studio builds, including dealing with acoustic challenges, digital streaming challenges, and have built my own modular synthesisers which included extensive research.
 
 My career in IT, software and as a technologist heavily intersects with this, for example: I spent 6 months in BBC R&D's music department working on modelling binaural acoustic research algorithms. I also worked for several years on iPlayer, including some exposure to streaming technologies and broadcast engineering.

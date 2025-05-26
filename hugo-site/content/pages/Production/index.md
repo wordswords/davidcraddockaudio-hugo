@@ -4,6 +4,7 @@ guid: http://www.davidcraddock.net/?page_id=1545
 title: Music Production
 url: /Production/
 ---
+![image](djsetup.jpg)
 
 ## Output
 

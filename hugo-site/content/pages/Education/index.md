@@ -5,6 +5,8 @@ title: Education
 url: /Education/
 ---
 
+![image](djingbooks.webp)
+
 ## Music Education
 
 In tandem with decades of professional experience in DJing and production, I'm a firm believer in life-long music education, and have complimented my music work with a lot of formal and informal music education:
