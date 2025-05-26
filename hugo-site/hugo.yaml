@@ -42,6 +42,9 @@ languages:
         - name: Engineering
           url: Engineering/
           weight: 14
+        - name: More
+          url: https://davidcraddock.net
+          weight: 15
 
 outputs:
   home:
