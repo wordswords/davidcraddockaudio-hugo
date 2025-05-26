@@ -14,11 +14,12 @@ I'm an experienced professional multi-genre DJ. I have excellent technical skill
 ## Experience
 
 * Twitch DJ - DJing on Mark Chalmers stream: [https://twitch.tv/heavyresistanceabz](https://twitch.tv/heavyresistanceabz) every Friday at 11pm, playing rock and metal music. - 1 year (**CURRENT**)
-* Bar DJ – Manchester, UK – DJing multi-genre party music nearly every week in venues across Manchester, through a booking agency. [www.anfieldagency.co.uk](https://www.anfieldangency.co.uk) - 6 months
+* Bar DJ – Manchester, UK – DJing multi-genre party music nearly every week in venues across Manchester, through a booking agency - [www.anfieldagency.co.uk](https://www.anfieldangency.co.uk) - 6 months
 * Twitch DJ – Manchester, UK – Ran a successful weekly Twitch.TV online DJ stream at [https://twitch.tv/DJDavidCraddock](https://twitch.tv/DJDavidCraddock) achieved Twitch Affiliate Status in the first month and now have over 500 followers, earning a fair amount for DJing every week, and also participating in charity events that raised thousands for charitable causes – 3 years
+* Event DJ - BBC - DJing at several events while working as as software engineer for the BBC, including twice at an official BBC 6 Music 'Introducing' event - 1 year
 * Wedding and Event DJ – Sussex Area – Working with a booking agent to DJ at weddings and other events. Responsible for setting up a full PA kit and lights, operating, DJing and entertaining – 1 year
-* 'The Pit, Crawley / PRIME Club Crawley' – Crawley, West Sussex – Resident DJ – DJing every week at this popular club night, usually as the prime-time DJ – 2 years
-* 'Guerrilla Rocks' – Brighton, East Sussex – Resident DJ – DJing every week at this popular club night, often as the prime-time DJ – 2 years
-* 'Club NME' – Brighton, East Sussex – Resident DJ – DJing every week at this popular club night – 1 year
-* 'Deviant' – Brighton, East Sussex – Photographer, general dogsbody, and occasional guest DJ - 2 years
+* "The Pit, Crawley" / "PRIME Club Crawley" – Crawley, West Sussex – Resident DJ – DJing every week at this popular club night, usually as the prime-time DJ – 2 years
+* "Guerrilla Rocks" – Brighton, East Sussex – Resident DJ – DJing every week at this popular club night, often as the prime-time DJ – 2 years
+* "Club NME" – Brighton, East Sussex – Resident DJ – DJing every week at this popular club night – 1 year
+* "Deviant" – Brighton, East Sussex – Photographer, general dogsbody, and occasional guest DJ - 2 years
 
